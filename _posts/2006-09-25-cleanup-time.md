@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cleanup time"
+date:  2006-09-25 16:17:57 -0700
 ---
 
 # Cleanup time
