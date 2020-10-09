@@ -6,7 +6,7 @@ date:  2006-09-25 16:17:57 -0700
 
 # Cleanup time
 
-![A scrap piece of paper with 'clean up time' scrawled on it]({{{{ site.baseurl }}}}/assets/2006-09-25-cleanup-time.jpg)
+![A scrap piece of paper with 'clean up time' scrawled on it](/assets/images/2006-09-25-cleanup-time.jpg)
 
 I found this on my walk home one day in the Spring of 2006.
 
