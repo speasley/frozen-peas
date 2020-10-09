@@ -1,4 +1,4 @@
-## About Frozen Peas
+## About
 
 Hello, nerds. I am Stephen Peasley. I walk about four kilometers to get to work and back. I often find interesting things along the way. Sometimes these are dirty things that I pick up with my bare hands then carry around for the rest of the day. Sometimes they are useful things. Some things I choose to just leave behind.
 
